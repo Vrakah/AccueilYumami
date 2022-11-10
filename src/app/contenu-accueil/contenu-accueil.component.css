@@ -1,0 +1,21 @@
+.description{
+    text-align: center;
+    padding : 80px;
+}
+
+.linkConnexion, a {
+    align-items: center;
+    text-decoration-line: none;
+    color : white;
+    background-color: blue;
+    background-size:cover;
+    text-align: center;
+}
+
+.linkConnexion{
+    margin:80px;
+}
+
+
+
+

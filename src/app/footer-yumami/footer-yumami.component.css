@@ -1,0 +1,21 @@
+.foot {
+    background-color: green;
+    height: 60px;
+    margin:auto
+    
+}
+
+.footList{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.footList, a {
+    text-decoration-line: none;
+    color: lightgrey;
+    padding : 15px;
+    margin: auto;
+    text-align: center;
+}

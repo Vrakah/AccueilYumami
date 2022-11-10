@@ -1,0 +1,17 @@
+.headTitle {
+    color : wheat;
+    font-style: bold;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    margin:auto;
+    
+}
+
+.head {
+    background-color: green;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    margin:auto;
+}
